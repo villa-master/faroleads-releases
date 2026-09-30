@@ -1,4 +1,4 @@
-# Faro Leads — Releases
+# Faro Leads: Releases
 
 Repositório **público** que hospeda os instaladores e o feed de auto-update do [Faro Leads](https://www.faroleads.site), app desktop Windows de prospecção B2B.
 
